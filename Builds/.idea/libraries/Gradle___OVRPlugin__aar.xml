@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: :OVRPlugin:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f97af14aedb23fd47ce32202a385842c/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f97af14aedb23fd47ce32202a385842c/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f97af14aedb23fd47ce32202a385842c/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
